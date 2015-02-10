@@ -1,0 +1,8 @@
+D:\Google Drive\LeagueSharp-master\Brand\bin\Release\Brand.exe.config
+D:\Google Drive\LeagueSharp-master\Brand\obj\Debug\Brand.csprojResolveAssemblyReference.cache
+D:\Google Drive\LeagueSharp-master\Brand\bin\Release\Brand.exe
+D:\Google Drive\LeagueSharp-master\Brand\bin\Release\Brand.pdb
+D:\Google Drive\LeagueSharp-master\Brand\bin\Release\clipper_library.dll
+D:\Google Drive\LeagueSharp-master\Brand\bin\Release\LeagueSharp.xml
+D:\Google Drive\LeagueSharp-master\Brand\obj\Debug\Brand.exe
+D:\Google Drive\LeagueSharp-master\Brand\obj\Debug\Brand.pdb
