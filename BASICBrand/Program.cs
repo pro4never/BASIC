@@ -173,7 +173,8 @@ namespace BASICBrand
 
             // Combo
             var combo = menu.MainMenu.AddSubMenu("Settings");
-            keyLinks.Add("harassActive", combo.AddLinkedKeyBind("HarassActive", 32, KeyBindType.Toggle));
+            keyLinks.Add("harassActive", combo.AddLinkedKeyBind("HarassActive", 0x21, KeyBindType.Toggle));
+            //Page up to toggle
 
             // Drawings
             var drawings = menu.MainMenu.AddSubMenu("Drawings");

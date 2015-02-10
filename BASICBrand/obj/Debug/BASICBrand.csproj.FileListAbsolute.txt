@@ -5,3 +5,11 @@ D:\Google Drive\LeagueSharp-master\Brand\bin\Release\clipper_library.dll
 D:\Google Drive\LeagueSharp-master\Brand\bin\Release\LeagueSharp.xml
 D:\Google Drive\LeagueSharp-master\Brand\obj\Debug\BASICBrand.exe
 D:\Google Drive\LeagueSharp-master\Brand\obj\Debug\BASICBrand.pdb
+D:\Google Drive\GIT\BASIC\BASICBrand\bin\Release\BASICBrand.exe.config
+D:\Google Drive\GIT\BASIC\BASICBrand\obj\Debug\BASICBrand.exe
+D:\Google Drive\GIT\BASIC\BASICBrand\obj\Debug\BASICBrand.pdb
+D:\Google Drive\GIT\BASIC\BASICBrand\bin\Release\BASICBrand.exe
+D:\Google Drive\GIT\BASIC\BASICBrand\bin\Release\BASICBrand.pdb
+D:\Google Drive\GIT\BASIC\BASICBrand\bin\Release\clipper_library.dll
+D:\Google Drive\GIT\BASIC\BASICBrand\bin\Release\LeagueSharp.xml
+D:\Google Drive\GIT\BASIC\BASICBrand\obj\Debug\BASICBrand.csprojResolveAssemblyReference.cache
